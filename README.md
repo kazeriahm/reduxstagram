@@ -1,6 +1,6 @@
-# Learn Redux
+# Reduxstagram
 
-A simple React + Redux implementation, following <https://learnredux.com/> tutorial.
+A simple Instagram-like application, based on a React + Redux implementation, following <https://learnredux.com/> tutorial.
 
 ## Running
 
